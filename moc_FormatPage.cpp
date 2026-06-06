@@ -1,6 +1,9 @@
-D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/build-mingw/AudioDeviceManager_autogen/YPKJ5OE7LN/moc_TestPage.cpp: D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/ui/TestPage.h \
+D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/build-mingw/AudioDeviceManager_autogen/UVLADIE3JM/moc_MainWindow.cpp: D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/MainWindow.h \
   D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/build-mingw/AudioDeviceManager_autogen/moc_predefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QList \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QObject \
   C:/Qt/6.11.0/mingw_64/include/QtCore/QString \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QStringList \
   C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
   C:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h \
   C:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h \
@@ -155,8 +158,10 @@ D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/build-mingw/AudioDeviceManager_autogen
   C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h \
   C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h \
-  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QWidget \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qmainwindow.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qsizepolicy.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtabwidget.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsexports.h \
   C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
@@ -486,9 +491,12 @@ D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/build-mingw/AudioDeviceManager_autogen
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_unicode.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/activation.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/apiset.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/apisetcconv.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/audioclient.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/audiosessiontypes.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/basetsd.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/bcrypt.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/bemapiset.h \
@@ -519,12 +527,16 @@ D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/build-mingw/AudioDeviceManager_autogen
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/guiddef.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/handleapi.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/heapapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/hstring.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/imm.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/inaddr.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/inspectable.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/interlockedapi.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ioapiset.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/jobapi.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/joystickapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ks.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ksmedia.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ktmtypes.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/libloaderapi.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
@@ -538,6 +550,7 @@ D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/build-mingw/AudioDeviceManager_autogen
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/mmeapi.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/mmiscapi.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/mmiscapi2.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/mmreg.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/mmsyscom.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/mmsystem.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/msxml.h \
@@ -583,6 +596,7 @@ D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/build-mingw/AudioDeviceManager_autogen
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/realtimeapiset.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/reason.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/roapi.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/rpc.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/rpcasync.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/rpcdce.h \
@@ -656,6 +670,18 @@ D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/build-mingw/AudioDeviceManager_autogen
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/winver.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wnnc.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wow64apiset.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wrl/client.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wrl/internal.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wtypes.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wtypesbase.h \
-  D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/audio/AudioDevice.h
+  D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/audio/AudioDevice.h \
+  D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/audio/AudioDeviceManager.h \
+  D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/audio/AudioDeviceNotifier.h \
+  D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/audio/AudioPeakMeter.h \
+  D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/audio/AudioSessionInfo.h \
+  D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/audio/AudioSessionManager.h \
+  D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/audio/DefaultDeviceController.h \
+  D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/audio/DeviceFormatInfo.h \
+  D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/audio/DeviceFormatInspector.h \
+  D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/audio/TestTonePlayer.h \
+  D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/core/VolumeProfileManager.h

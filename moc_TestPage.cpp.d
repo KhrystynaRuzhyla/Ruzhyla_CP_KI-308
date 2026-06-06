@@ -1,4 +1,4 @@
-D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/build-mingw/AudioDeviceManager_autogen/YPKJ5OE7LN/moc_TestPage.cpp: D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/ui/TestPage.h \
+D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/build-mingw/AudioDeviceManager_autogen/YPKJ5OE7LN/moc_FormatPage.cpp: D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/src/ui/FormatPage.h \
   D:/SPZ_TP_3KYRS/new/28/AudioDeviceManager/build-mingw/AudioDeviceManager_autogen/moc_predefs.h \
   C:/Qt/6.11.0/mingw_64/include/QtCore/QString \
   C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
